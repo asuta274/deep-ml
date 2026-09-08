@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T16:09:22.012Z",
+  "generated_at": "2026-09-17T16:09:24.212Z",
   "items": {
     "problem:92": {
       "kind": "problem",
@@ -258,6 +258,19 @@
       "path": "problems/0054-implementing-a-simple-rnn",
       "first_solved_at": "2026-09-07T17:14:45.969Z",
       "last_pushed_at": "2026-09-07T17:14:45.969Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:102": {
+      "kind": "problem",
+      "id": "102",
+      "title": "Implement the Swish Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/102",
+      "path": "problems/0102-implement-the-swish-activation-function",
+      "first_solved_at": "2026-09-08T05:19:12.263Z",
+      "last_pushed_at": "2026-09-08T05:19:12.263Z",
       "language": "python",
       "lines": 14
     }
