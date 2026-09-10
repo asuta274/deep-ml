@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T16:09:26.296Z",
+  "generated_at": "2026-09-17T16:09:28.488Z",
   "items": {
     "problem:92": {
       "kind": "problem",
@@ -299,6 +299,45 @@
       "last_pushed_at": "2026-09-09T13:35:52.199Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:1325": {
+      "kind": "problem",
+      "id": "1325",
+      "title": "Your First Gradient with jax.grad",
+      "difficulty": "easy",
+      "category": "Jax",
+      "url": "https://www.deep-ml.com/problems/1325",
+      "path": "problems/1325-your-first-gradient-with-jax-grad",
+      "first_solved_at": "2026-09-10T06:12:02.435Z",
+      "last_pushed_at": "2026-09-10T06:12:02.435Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:880": {
+      "kind": "problem",
+      "id": "880",
+      "title": "Create a Float Tensor from a Python List",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/880",
+      "path": "problems/0880-create-a-float-tensor-from-a-python-list",
+      "first_solved_at": "2026-09-10T06:17:06.520Z",
+      "last_pushed_at": "2026-09-10T06:17:06.520Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:53": {
+      "kind": "problem",
+      "id": "53",
+      "title": "Implement Self-Attention Mechanism",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/53",
+      "path": "problems/0053-implement-self-attention-mechanism",
+      "first_solved_at": "2026-09-10T19:11:32.356Z",
+      "last_pushed_at": "2026-09-10T19:11:32.356Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
