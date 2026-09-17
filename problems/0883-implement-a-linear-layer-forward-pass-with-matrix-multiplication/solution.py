@@ -2,6 +2,5 @@ import torch
 
 def linear_forward(x: torch.Tensor, W: torch.Tensor, b: torch.Tensor) -> torch.Tensor:
     # TODO: implement y = x W^T + b using PyTorch ops
-    W = W.transpose(0, 1)
-    result = x @ W + b
+    result = x @ W.T + b
     return result
