@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T18:02:46.748Z",
+  "generated_at": "2026-09-17T18:03:06.219Z",
   "items": {
     "problem:92": {
       "kind": "problem",
@@ -439,7 +439,7 @@
       "url": "https://www.deep-ml.com/problems/1223",
       "path": "problems/1223-gradient-of-a-weighted-sum-of-squares",
       "first_solved_at": "2026-09-17T18:02:41.313Z",
-      "last_pushed_at": "2026-09-17T18:02:41.313Z",
+      "last_pushed_at": "2026-09-17T18:03:03.338Z",
       "language": "python",
       "lines": 14
     }

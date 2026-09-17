@@ -6,8 +6,8 @@ def grad_wss(w_list, x_list):
     as a list of floats rounded to 4 decimals.
     """
     # TODO
-    w = torch.tensor(w_list, dtype=torch.float32, requires_grad=True)
-    x = torch.tensor(x_list, dtype=torch.float32)
+    w = torch.tensor(w_list, dtype=torch.bfloat16, requires_grad=True)
+    x = torch.tensor(x_list, dtype=torch.bfloat16)
     loss = 0.5 * torch.sum((w * x) ** 2)
     loss.backward()
     return [round(g, 4) for g in w.grad.tolist()]
