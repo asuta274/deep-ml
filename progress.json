@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T16:09:36.735Z",
+  "generated_at": "2026-09-17T17:09:28.630Z",
   "items": {
     "problem:92": {
       "kind": "problem",
@@ -416,6 +416,19 @@
       "last_pushed_at": "2026-09-14T04:04:58.579Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:94": {
+      "kind": "problem",
+      "id": "94",
+      "title": "Implement Multi-Head Attention",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/94",
+      "path": "problems/0094-implement-multi-head-attention",
+      "first_solved_at": "2026-09-17T17:09:25.838Z",
+      "last_pushed_at": "2026-09-17T17:09:25.838Z",
+      "language": "python",
+      "lines": 76
     }
   }
 }
